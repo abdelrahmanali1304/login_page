@@ -1,0 +1,25 @@
+body{
+    background-color: #24353F;
+}
+.group-inpust{
+
+padding-left :20px;
+padding-right :20px;
+    box-shadow:-5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.group-inpust h1{
+
+color: cadetblue;
+margin-bottom: 50px;
+
+}
+.group-inpust input{
+
+color: white;
+    background-color:transparent;
+}
+.group-inpust input:focus{
+
+color: white;
+    background-color:transparent;
+}
